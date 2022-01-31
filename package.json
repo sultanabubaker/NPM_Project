@@ -3,12 +3,6 @@
    "version": "0.5.0",
    "dependencies": {},
    "devDependencies": {
-      "bower": "^1.8.4",
-      "grunt": "^1.0.3",
-      "grunt-angular-templates": "^1.1.0",
-      "grunt-autoprefixer": "^3.0.4",
-      "grunt-bower-task": "^0.5.0",
-      "grunt-cli": "^1.2.0",
       "grunt-concurrent": "^2.3.1",
       "grunt-connect-proxy-updated": "0.2.1",
       "grunt-contrib-clean": "^1.1.0",
